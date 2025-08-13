@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Matheus Pacheco Mello Duarte
+# 👨🏻‍💻 Matheus Mello
 
 **`Estudante de ADS | Técnico em TI`**
 
@@ -20,6 +20,13 @@ Sou apaixonado por aprender e explorar novas ideias, especialmente em áreas com
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/mmellozzz?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
+    </a>
+    <a href="[https://www.linkedin.com/in/seu-linkedin/](https://www.linkedin.com/in/matheus-mello-4913622a9)">
+        <img 
+            alt="LinkedIn" 
+            title="Me conecte no LinkedIn" 
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+            />
     </a>
 </p>
 
