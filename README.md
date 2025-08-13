@@ -32,15 +32,16 @@ Sou apaixonado por aprender e explorar novas ideias, especialmente em áreas com
 
 ---
 
-<h3 align="left">🛠 Tecnologias</h3>
-<p align="left">
-    <img alt="HTML5" src="https://custom-icon-badges.demolab.com/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img alt="CSS3" src="https://custom-icon-badges.demolab.com/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white" />
-    <img alt="Python" src="https://custom-icon-badges.demolab.com/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-00618A?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img alt="Git" src="https://custom-icon-badges.demolab.com/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<h3>💻 Linguagens e Tecnologias</h3>
+<p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML5" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS3" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" alt="Java" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" alt="Python" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" alt="SQL" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="Git" width="40" height="40"/>
 </p>
+
 
 ### 📊 Estatísticas
 
