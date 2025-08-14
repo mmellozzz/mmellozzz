@@ -28,27 +28,25 @@ Ainda estou explorando qual área seguir, mas acredito que **dados** e **desenvo
 
 
 ---
+### 🚀 Linguagens e Ferramentas
+<p align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="30" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="30" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width="30" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="30" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="30" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="30" height="40"/>
+</p>
+
+---
 
 ### 📊 Estatísticas & Tecnologias
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mmellozzz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmellozzz&layout=compact&theme=tokyonight&custom_title=Tecnologias"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mmellozzz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmellozzz&layout=compact&theme=tokyonight&custom_title=Tecnologias"/>
 </p>
 
 ---
-
-### 🚀 Linguagens e Ferramentas
-<p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40" height="40"/>
-</p>
-
----
-
 
 
 ### 📈 Gráfico de Commits
