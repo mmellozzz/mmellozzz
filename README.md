@@ -13,6 +13,17 @@ Ainda estou explorando qual área seguir, mas acredito que **dados** e **desenvo
  
 
 ---
+### 🌎 Onde me encontrar
+<p align="center">
+    <a href="https://github.com/mmellozzz">
+        <img src="https://custom-icon-badges.demolab.com/github/followers/mmellozzz?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
+    </a>
+    <a href="https://www.linkedin.com/in/matheus-mello-4913622a9">
+        <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+</p>
+
+---
 
 ### 📊 Estatísticas & Tecnologias
 <p align="center">
@@ -34,31 +45,10 @@ Ainda estou explorando qual área seguir, mas acredito que **dados** e **desenvo
 
 ---
 
-### 🌎 Onde me encontrar
-<p align="center">
-    <a href="https://github.com/mmellozzz">
-        <img src="https://custom-icon-badges.demolab.com/github/followers/mmellozzz?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
-    </a>
-    <a href="https://www.linkedin.com/in/matheus-mello-4913622a9">
-        <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-</p>
 
----
 
 ### 📈 Gráfico de Commits
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mmellozzz&theme=tokyo-night&hide_border=true"/>
 </p>
 
----
-
-### 🌎 Onde me encontrar
-<p align="center">
-    <a href="https://github.com/mmellozzz">
-        <img src="https://custom-icon-badges.demolab.com/github/followers/mmellozzz?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
-    </a>
-    <a href="https://www.linkedin.com/in/matheus-mello-4913622a9">
-        <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-</p>
