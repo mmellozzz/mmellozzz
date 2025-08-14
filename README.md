@@ -13,15 +13,19 @@ Ainda estou explorando qual área seguir, mas acredito que **dados** e **desenvo
  
 
 ---
-### 🌎 Onde me encontrar
+### 🌎 Where to find me
 <p align="center">
     <a href="https://github.com/mmellozzz">
-        <img src="https://custom-icon-badges.demolab.com/github/followers/mmellozzz?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
+        <img src="https://custom-icon-badges.demolab.com/github/followers/mmellozzz?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"/>
     </a>
-    <a href="https://www.linkedin.com/in/matheus-mello-4913622a9">
-        <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <a href="mailto:mellomatheus.contato@gmail.com">
+        <img src="https://custom-icon-badges.demolab.com/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+    <a href="https://discordapp.com/users/_xonen_">
+        <img src="https://custom-icon-badges.demolab.com/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
     </a>
 </p>
+
 
 ---
 
